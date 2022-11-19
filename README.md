@@ -1,2 +1,2 @@
 # hello-world2
-hi this is Jyothy.
+Hi this is Jyothy.
